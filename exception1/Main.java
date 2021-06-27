@@ -55,7 +55,7 @@ public class Main {
 		// get a file name from user
 		// create a file with this name 
 		//   hint: File file = new File("filename.txt");
-	    //        file.createNewFile() -- will create file if not exist
+	    //        file.createNewFile() -- will create file if does not exist
 		// which exception  may be thrown ?
 		// use try-catch to "shut-down" the error
 		
@@ -64,7 +64,7 @@ public class Main {
 		// create a file with this name 
 		//   hint: File file = new File("filename.txt");
 	    //        file.createNewFile() -- will create file if not exist
-		// use declaration to "shut-down" the error [in-main]
+		// use declaration to "shut-down" the error [also in-main]
 		
 		
 		// * etgar
