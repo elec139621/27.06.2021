@@ -45,14 +45,18 @@ public class Main {
 	    // enter index from the user
 	    // print the array in the index given
 	    // try-catch it
+	    // in the catch print "index out of bound"
 	    // anyway (hint: finally) -- print "done!"
 	    // 2
 	    // create a class called Taxi
 	    // create member protected m_fuel
 	    // create a method rideTaxi(float distanceInKm)
 	    // the taxi rides 10 km per km
-	    // if the distance is more than the fuel then 
-	    // throw new outOfFuelException -- make it checked exception
+	    // if the distance is less then the fuel
+	    // calculate the remaining fuel
+	    // if not- more than the fuel then 
+	    // throw new OutOfFuelException -- make it checked exception
+	    // from main -- create a Taxi and a ride
 	}
 
 }
